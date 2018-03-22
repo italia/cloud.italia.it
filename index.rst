@@ -1,6 +1,6 @@
-#############
-Cloud Project
-#############
+#################
+Il Cloud della PA
+#################
 
 
 Il progetto per il Cloud della Pubblica Amministrazione ("Cloud PA") dà
@@ -18,10 +18,6 @@ Per il progetto Cloud PA, è presente un'introduzione al progetto:
    _docs/introduzione.rst
 
 
-e due sezioni:
-
-1. `Il Cloud della PA <http://cloudpa.readthedocs.io/it/latest/>`_
-2. `Trasformazione della PA aka processi in corso <http://trasformazione-cloudpa.readthedocs.io>`_
 
 
 
