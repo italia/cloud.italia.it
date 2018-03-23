@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Titolo del documento"
+settings_project_name = "Il Cloud della PA"
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'titolo-documento'
-settings_file_name = 'titolo-documento'
+settings_basename = 'cloud'
+settings_file_name = 'cloud'
 
 # -- No need to change below here
 

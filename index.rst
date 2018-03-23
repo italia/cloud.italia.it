@@ -11,7 +11,7 @@ infrastrutture e servizi di cloud computing all'interno della Pubblica
 Amministrazione.
 
 
-Per il progetto Cloud PA, è presente un'introduzione al progetto:
+Per il progetto Il Cloud della PA, è presente un'introduzione al progetto:
 
 .. toctree::
 
@@ -20,8 +20,8 @@ Per il progetto Cloud PA, è presente un'introduzione al progetto:
 
 e due sezioni:
 
-1. `Il Cloud della PA <http://cloudpa.readthedocs.io/it/latest/>`_
-2. `Trasformazione della PA aka processi in corso <http://trasformazione-cloudpa.readthedocs.io>`_
+- `Il Cloud della PA <http://il-cloud-della-pa.readthedocs.io/it/latest/>`_
+- `Trasformazione della PA aka processi in corso <http://il-cloud-della-pa.readthedocs.io/it/latest/>`_
 
 
 

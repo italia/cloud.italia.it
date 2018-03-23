@@ -1,3 +1,3 @@
 # cloud.italia.it
 
-Repository ufficiale del Cloud della PA http://cloud.italia.it
+Repository ufficiale del progetto Il Cloud della PA: http://cloud.italia.it
