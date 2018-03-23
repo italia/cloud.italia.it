@@ -7,13 +7,9 @@ settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-<<<<<<< HEAD
-settings_basename = 'cloud'
-settings_file_name = 'cloud'
-=======
-settings_basename = 'Il Cloud della PA'
-settings_file_name = 'titolo-documento'
->>>>>>> efb2711b3988119f52558b38638896947f198a60
+settings_basename = 'cloud-italia'
+settings_file_name = 'cloud-italia'
+
 
 # -- No need to change below here
 
