@@ -1,12 +1,9 @@
 Introduzione
 ============
 
-Il progetto per il Cloud della Pubblica Amministrazione ("Cloud PA") dà
-attuazione a quanto previsto dal `Piano Triennale per l'informatica nella
+Il Cloud della Pubblica Amministrazione, previsto nell'ambito del `Piano Triennale per l'informatica nella
 Pubblica amministrazione 2017- 2019
-<http://pianotriennale-ict.readthedocs.io/it/latest/>`_ in merito all'uso di
-infrastrutture e servizi di cloud computing all'interno della Pubblica
-Amministrazione.
+<http://pianotriennale-ict.readthedocs.io/it/latest/>`_  è costituito dalle infrastrutture e servizi di cloud computing a disposizione della Pubblica Amministrazione. Questo progetto documenta le risorse e i processi che sono in atto per la costruzione del Cloud della PA.
 
 
 Cloud Computing 
