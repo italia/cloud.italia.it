@@ -12,9 +12,9 @@ Le diverse sezioni raccolgono i contenuti divulgativi, le istruzioni operative e
 carattere di pubblicità legale, richiamate da apposite circolari AgID.
 
 
--  La strategia e il modello *`Cloud della PA <https://cloud-italia.readthedocs.io/projects/cloud-italia-docs/it/latest/>`__*
--  Circolare per la *`qualificazione dei Cloud Service Provider <https://cloud-italia.readthedocs.io/projects/cloud-italia-circolari/it/latest/>`__*
--  Circolare per la *`qualificazione dei Servizi cloud SaaS <https://cloud-italia.readthedocs.io/projects/cloud-italia-circolari/it/latest/>`__*
+-  La strategia e il modello `Cloud della PA <https://cloud-italia.readthedocs.io/projects/cloud-italia-docs/it/latest/>`__
+-  Circolare per la `qualificazione dei Cloud Service Provider <https://cloud-italia.readthedocs.io/projects/cloud-italia-circolari/it/latest/>`__
+-  Circolare per la `qualificazione dei Servizi cloud SaaS <https://cloud-italia.readthedocs.io/projects/cloud-italia-circolari/it/latest/>`__
 
 
 
