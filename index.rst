@@ -4,7 +4,7 @@ Cloud Italia
 
 
 L’Agenzia per l’Italia Digitale (AgID), in collaborazione con il Team per la
-Trasformazione Digitale, ha realizzato il sito informativo `cloud.italia.it <https://cloud.italia.it>`
+Trasformazione Digitale, ha realizzato il sito informativo `cloud.italia.it <https://cloud.italia.it>`__
 con lo scopo di rendere pubblica la strategia sull'adozione del Cloud Computing nella Pubblica Amministrazione (PA)
 e raccogliere informazioni e strumenti utili alla realizzazione di tale strategia.
 
