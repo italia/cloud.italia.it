@@ -4,21 +4,17 @@ Cloud Italia
 
 
 L’Agenzia per l’Italia Digitale (AgID), in collaborazione con il Team per la
-Trasformazione Digitale, ha realizzato quest'area informativa con lo scopo
-di rendere pubblica la strategia sul Cloud Computing per la Pubblica Amministrazione (PA)
-e rendere disponibili strumenti e informazioni utili alla realizzazione di .
+Trasformazione Digitale, ha realizzato il sito informativo `cloud.italia.it <https://cloud.italia.it>`
+con lo scopo di rendere pubblica la strategia sull'adozione del Cloud Computing nella Pubblica Amministrazione (PA)
+e raccogliere informazioni e strumenti utili alla realizzazione di tale strategia.
 
-Il sito si compone di diverse sezioni dove reperire contenuti divulgativi e
-informativi per facilitare la comprensione del Cloud e supportare le PA
-nell’attuazione della strategia Cloud delineata nei documenti governativi di
-riferimento. Vengono inoltre fornite istruzioni operative e comunicazioni, con
+Le diverse sezioni raccolgono i contenuti divulgativi, le istruzioni operative e le comunicazioni ufficiali, con
 carattere di pubblicità legale, richiamate da apposite circolari AgID.
 
 
-
-- `La strategia e il modello Cloud della PA <>`__
-- `La circolare per la qualificazione dei *Cloud Service Provider* <>`__
-- `La circolare per la qualificazione dei Servizi cloud *SaaS*<>`__
+- `Strategia e il modello *Cloud della PA* <https://cloud-italia.readthedocs.io/projects/cloud-italia-docs/it/latest/>`__
+- `Circolare per la qualificazione dei *Cloud Service Provider* <https://cloud-italia.readthedocs.io/projects/cloud-italia-circolari/it/latest/>`__
+- `Circolare per la qualificazione dei Servizi cloud *SaaS* <https://cloud-italia.readthedocs.io/projects/cloud-italia-circolari/it/latest/>`__
 
 
 
