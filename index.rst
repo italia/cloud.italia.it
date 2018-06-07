@@ -1,26 +1,25 @@
-#################
-Il Cloud della PA
-#################
+############
+Cloud Italia
+############
 
 
-Il progetto per il Cloud della Pubblica Amministrazione ("Cloud PA") dà
-attuazione a quanto previsto dal `Piano Triennale per l'informatica nella
-Pubblica amministrazione 2017- 2019
-<http://pianotriennale-ict.readthedocs.io/it/latest/>`_ in merito all'uso di
-infrastrutture e servizi di cloud computing all'interno della Pubblica
-Amministrazione.
+L’Agenzia per l’Italia Digitale (AgID), in collaborazione con il Team per la
+Trasformazione Digitale, ha realizzato il sito “cloud.italia.it” con lo scopo
+di rendere pubblica la strategia sul Cloud per la Pubblica Amministrazione (PA)
+e mettere a disposizione un unico punto di raccolta di strumenti e informazioni
+su tale strategia.
 
+Il sito si compone di diverse sezioni dove reperire contenuti divulgativi e
+informativi per facilitare la comprensione del Cloud e supportare le PA
+nell’attuazione della strategia Cloud delineata nei documenti governativi di
+riferimento. Vengono inoltre fornite istruzioni operative e comunicazioni, con
+carattere di pubblicità legale, richiamate da apposite circolari AgID.
 
-Per il progetto Il Cloud della PA, è presente un'introduzione al progetto:
 
 .. toctree::
 
-   _docs/introduzione.rst
 
-e due sezioni:
 
-- `Il Cloud della PA <http://il-cloud-della-pa.readthedocs.io/it/latest/>`_
-- `Trasformazione della PA aka processi in corso <http://il-cloud-della-pa.readthedocs.io/it/latest/>`_
 
 
 
