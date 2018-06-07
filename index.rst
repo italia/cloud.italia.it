@@ -15,9 +15,9 @@ Il Cloud della PA
 
 Documenti
 ---------
-   -  La strategia cloud e il modello `Cloud della PA <https://cloud-italia.readthedocs.io/projects/cloud-italia-docs/it/latest/>`__
-   -  Circolare per la `qualificazione dei Cloud Service Provider <https://cloud-italia.readthedocs.io/projects/cloud-italia-circolari/it/latest/>`__
-   -  Circolare per la `qualificazione dei Servizi cloud SaaS <https://cloud-italia.readthedocs.io/projects/cloud-italia-circolari/it/latest/>`__
+-  La strategia cloud e il modello `Cloud della PA <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/>`__
+-  Circolare per la `qualificazione dei Cloud Service Provider <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/>`__
+-  Circolare per la `qualificazione dei Servizi cloud SaaS <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/>`__
 
 Avvisi
 ------
