@@ -1,19 +1,9 @@
 document:
   name: Il Cloud della PA
   description: |
-    Lorem ipsum dolor sit amet, consectetur 
-    adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud 
-    exercitation ullamco laboris nisi ut 
-    aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in 
-    voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint 
-    occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id 
-    est laborum.    
+    Le Circolari e i relativi allegati definiscono, in attuazione a quanto previsto
+    nel "Piano Triennale per l’informatica nella Pubblica amministrazione 2017-
+    2019", approvato con DPCM del 31 maggio 2017, i requisiti di qualificazione dei
+    servizi SaaS e dei Cloud Service Provider.   
   tags:
-    - topic
-    - related topic
-    - amazing project
+    - "piano triennale"
