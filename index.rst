@@ -13,21 +13,27 @@ Il Cloud della PA
    e le comunicazioni ufficiali, con carattere di pubblicità legale, richiamate da
    apposite circolari AgID.
 
+Avvisi
+------
+.. note::
+   Mediante i link nella sezione servizi sono da oggi disponibili la piattaforma provvisoria per le richieste di qualificazione dei CSP 
+   (Cloud Service Provider) e il Marketplace dei servizi qualificati, come, in particolare, previsto all’articolo 4 (“Fasi del 
+   processo di qualificazione”), Fase 2, della richiamata
+   circolare Agid n. 2/2018. Seguirà la disponibilità, sulla medesima piattaforma, della gestione delle richieste di qualificazione per i
+   servizi SaaS.
+   Si ricorda che, a decorrere dal 20 novembre 2018, le Amministrazioni saranno tenute ad acquisire esclusivamente servizi Cloud
+   qualificati da AgID. E’ possibile rivolgere richieste di informazioni alla mail  `qualificazione-cloud@agid.gov.it <mailto:qualificazione-cloud@agid.gov.it`__
+ 
+
 Documenti
 ---------
 -  La strategia cloud e il modello `Cloud della PA <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/>`__
 -  Circolare per la `qualificazione dei Cloud Service Provider <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/>`__
 -  Circolare per la `qualificazione dei Servizi cloud SaaS <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/>`__
 
-Avvisi
-------
 
-.. note::
-   Ai sensi delle Circolari Agid n.2 e 3 del 09 aprile 2018, l’Agenzia per
-   l’Italia Digitale comunica a tutti i soggetti interessati al conseguimento
-   delle qualificazioni che con successivo avviso pubblico su questo sito
-   saranno rese note le modalità di presentazione delle “Richieste di Qualificazione”.
-   Si ricorda che solo a decorrere da sei mesi dall’entrata in vigore delle
-   Circolari Agid n.2 e 3 del 2018, le Amministrazioni acquisiscono
-   esclusivamente servizi IaaS, PaaS e SaaS qualificati e pubblicati sul
-   Marketplace Cloud.
+Servizi
+-------
+- Qualificazione per i Cloud Service Provider -  `Procedi alla qualificazione delle infrastrutture IT e/o dei servizi IaaS/PaaS <https://cloud.italia.it/marketplace/supplier>`__ 
+- Marketplace Cloud - `Visualizza i servizi e le infrastrutture qualificate nell'ambito del Cloud della PA <https://cloud.italia.it/marketplace/> `__
+
