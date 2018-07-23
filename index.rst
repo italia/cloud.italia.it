@@ -43,5 +43,5 @@ Documenti
 Servizi
 -------
 - Qualificazione per i Cloud Service Provider -  `Procedi alla qualificazione delle infrastrutture IT e/o dei servizi IaaS/PaaS <https://cloud.italia.it/marketplace/supplier>`__ 
-- Marketplace Cloud - `Visualizza i servizi e le infrastrutture qualificate nell'ambito del Cloud della PA <https://cloud.italia.it/marketplace/> `__
+- Marketplace Cloud - `Visualizza i servizi e le infrastrutture qualificate nell'ambito del Cloud della PA <https://cloud.italia.it/marketplace/>`__
 
