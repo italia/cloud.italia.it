@@ -16,13 +16,21 @@ Il Cloud della PA
 Avvisi
 ------
 .. note::
-   Mediante i link nella sezione servizi sono da oggi disponibili la piattaforma provvisoria per le richieste di qualificazione dei CSP 
-   (Cloud Service Provider) e il Marketplace dei servizi qualificati, come, in particolare, previsto all’articolo 4 (“Fasi del 
-   processo di qualificazione”), Fase 2, della richiamata
-   circolare Agid n. 2/2018. Seguirà la disponibilità, sulla medesima piattaforma, della gestione delle richieste di qualificazione per i
-   servizi SaaS.Si ricorda che, a decorrere dal 20 novembre 2018, le Amministrazioni saranno tenute ad acquisire esclusivamente servizi 
-   Cloud qualificati da AgID. E’ possibile rivolgere richieste di informazioni alla mail  `qualificazione-cloud@agid.gov.it 
-   <mailto:qualificazione-cloud@agid.gov.it>`__
+   A partire da lunedì 23/07/2018 è possibile richiedere la qualificazione di Cloud Service Provider per la PA ed accedere al Marketplace
+   dei servizi qualificati, mediante la piattaforma temporanea di qualificazione messa a disposizione da AgID nei link in calce (sezione
+   servizi)
+   
+  I soggetti pubblici e privati che intendono qualificarsi ed entrare così nel Marketplace cloud della PA dovranno inoltrare informazioni
+  e documentazione che attestino la loro conformità a una serie di requisiti organizzativi, di sicurezza, di performance e scalabilità, 
+  interoperabilità e portabilità fissati dalla circolare Agid n. 2 del 9 aprile 2018.
+  Il percorso di qualificazione dei fornitori CSP e Saas della PA rientra nella strategia Cloud della Pa delineata da Agid in coerenza con
+  gli obiettivi del Piano triennale per l’informatica pubblica 2017-19 per favorire l’adozione del modello del cloud computing nelle
+  amministrazioni italiane.
+  
+  A partire dal 20 novembre 2018, le amministrazioni saranno tenute ad acquisire esclusivamente servizi Cloud qualificati da Agid presenti
+  nel marketplace.
+  Per ricevere ulteriori informazioni sulle procedure di qualificazione, gli operatori interessati possono inviare una mail all’indirizzo: 
+  `qualificazione-cloud@agid.gov.it <mailto:qualificazione-cloud@agid.gov.it>`__
  
 
 Documenti
