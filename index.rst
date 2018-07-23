@@ -20,9 +20,9 @@ Avvisi
    (Cloud Service Provider) e il Marketplace dei servizi qualificati, come, in particolare, previsto all’articolo 4 (“Fasi del 
    processo di qualificazione”), Fase 2, della richiamata
    circolare Agid n. 2/2018. Seguirà la disponibilità, sulla medesima piattaforma, della gestione delle richieste di qualificazione per i
-   servizi SaaS.
-   Si ricorda che, a decorrere dal 20 novembre 2018, le Amministrazioni saranno tenute ad acquisire esclusivamente servizi Cloud
-   qualificati da AgID. E’ possibile rivolgere richieste di informazioni alla mail  `qualificazione-cloud@agid.gov.it <mailto:qualificazione-cloud@agid.gov.it`__
+   servizi SaaS.Si ricorda che, a decorrere dal 20 novembre 2018, le Amministrazioni saranno tenute ad acquisire esclusivamente servizi 
+   Cloud qualificati da AgID. E’ possibile rivolgere richieste di informazioni alla mail  `qualificazione-cloud@agid.gov.it 
+   <mailto:qualificazione-cloud@agid.gov.it>`__
  
 
 Documenti
