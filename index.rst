@@ -16,9 +16,9 @@ Il Cloud della PA
 Avvisi
 ------
 .. note::
-   A partire da lunedì 23/07/2018 è possibile richiedere la qualificazione di Cloud Service Provider per la PA ed accedere al Marketplace
-   dei servizi qualificati, mediante la piattaforma temporanea di qualificazione messa a disposizione da AgID nei link in calce (sezione
-   servizi)
+  A partire da lunedì 23/07/2018 è possibile richiedere la qualificazione di Cloud Service Provider per la PA ed accedere al Marketplace
+  dei servizi qualificati, mediante la piattaforma temporanea di qualificazione messa a disposizione da AgID nei link in calce (sezione
+  servizi)
    
   I soggetti pubblici e privati che intendono qualificarsi ed entrare così nel Marketplace cloud della PA dovranno inoltrare informazioni
   e documentazione che attestino la loro conformità a una serie di requisiti organizzativi, di sicurezza, di performance e scalabilità, 
