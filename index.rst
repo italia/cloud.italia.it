@@ -16,6 +16,9 @@ Il Cloud della PA
 Avvisi
 ------
 .. note::
+  Con la determina n. 358 del 6 novembre 2018, AGID proroga al 1 gennaio 2019 i termini per la qualificazione dei servizi cloud CSP (Cloud Service Provider) e SaaS (Software as a Service), necessaria per l’acquisizione degli stessi da parte delle amministrazioni. I servizi cloud oggetto di contratti ancora in corso non hanno necessità di essere qualificati sino alla scadenza contrattuale.
+  
+.. note::
   A partire da lunedì 23/07/2018 è possibile richiedere la qualificazione di Cloud Service Provider per la PA ed accedere al Marketplace
   dei servizi qualificati, mediante la piattaforma temporanea di qualificazione messa a disposizione da AgID nei link in calce (sezione
   servizi)
@@ -27,7 +30,7 @@ Avvisi
   gli obiettivi del Piano triennale per l’informatica pubblica 2017-19 per favorire l’adozione del modello del cloud computing nelle
   amministrazioni italiane.
   
-  A partire dal 20 novembre 2018, le amministrazioni saranno tenute ad acquisire esclusivamente servizi Cloud qualificati da Agid presenti
+  A partire dal 1 gennaio 2019, le amministrazioni saranno tenute ad acquisire esclusivamente servizi Cloud qualificati da Agid presenti
   nel marketplace.
   Per ricevere ulteriori informazioni sulle procedure di qualificazione, gli operatori interessati possono inviare una mail all’indirizzo: 
   `qualificazione-cloud@agid.gov.it <mailto:qualificazione-cloud@agid.gov.it>`__
