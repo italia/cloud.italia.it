@@ -1,0 +1,54 @@
+## Basic Configuration
+baseurl = "https://cloud.italia.it"
+languageCode = "it"
+
+title = "Cloud Italia"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+#paginate = 5
+
+## Site Settings
+[params]
+    author = "AgID - Team Digitale"
+    title = "Cloud Italia"
+    # description = "..."
+#    authorimage = "/img/hugo.png"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+#[params.social]
+#    twitter = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Avvisi"
+    weight = 100
+    identifier = "notices"
+    url = "/notices/"
+[[menu.main]]
+    name = "Documenti"
+    identifier = "Documenti"
+    weight = 300
+    url = "/docs/"
+[[menu.main]]
+    name = "Marketplace"
+    identifier = "Marketplace"
+    weight = 300
+    url = "/marketplace/"
