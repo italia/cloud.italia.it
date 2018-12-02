@@ -2,7 +2,7 @@
 baseurl = "https://cloud.italia.it"
 languageCode = "it"
 
-title = "Cloud della PA"
+title = "Cloud PA"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
