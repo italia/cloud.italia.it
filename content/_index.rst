@@ -4,17 +4,16 @@ date: 2018-07-01
 markup: rst
 ---
 
-.. highlights::
-   L’Agenzia per l’Italia Digitale (AgID), in collaborazione con il Team per la
-   Trasformazione Digitale, ha realizzato il sito informativo `cloud.italia.it
-   <https://cloud.italia.it>`__ con lo scopo di rendere pubblica la strategia
-   sull'adozione del Cloud Computing nella Pubblica Amministrazione (PA) e
-   raccogliere informazioni e strumenti utili alla realizzazione di tale
-   strategia.
+L’Agenzia per l’Italia Digitale (AgID), in collaborazione con il Team per la
+Trasformazione Digitale, ha realizzato il sito informativo `cloud.italia.it
+<https://cloud.italia.it>`__ con lo scopo di rendere pubblica la strategia
+sull'adozione del Cloud Computing nella Pubblica Amministrazione (PA) e
+raccogliere informazioni e strumenti utili alla realizzazione di tale
+strategia.
 
-   Le diverse sezioni raccolgono i contenuti divulgativi, le istruzioni operative
-   e le comunicazioni ufficiali, con carattere di pubblicità legale, richiamate da
-   apposite circolari AgID.
+Le diverse sezioni raccolgono i contenuti divulgativi, le istruzioni operative
+e le comunicazioni ufficiali, con carattere di pubblicità legale, richiamate da
+apposite circolari AgID.
 
 Comunità
 --------
@@ -31,4 +30,3 @@ Servizi
 -------
 - Qualificazione per i Cloud Service Provider -  `Procedi alla qualificazione delle infrastrutture IT e/o dei servizi IaaS/PaaS <https://cloud.italia.it/marketplace/supplier>`__ 
 - Marketplace Cloud - `Visualizza i servizi e le infrastrutture qualificate nell'ambito del Cloud della PA <https://cloud.italia.it/marketplace/>`__
-

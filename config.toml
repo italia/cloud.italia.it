@@ -2,7 +2,7 @@
 baseurl = "https://cloud.italia.it"
 languageCode = "it"
 
-title = "Cloud Italia"
+title = "Cloud della PA"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -43,12 +43,12 @@ theme = "hyde-hyde"
     identifier = "notices"
     url = "/notices/"
 [[menu.main]]
-    name = "Documenti"
-    identifier = "Documenti"
+    name = "Circolari"
+    identifier = "Circolari"
     weight = 300
-    url = "/docs/"
+    url = "https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/"
 [[menu.main]]
     name = "Marketplace"
     identifier = "Marketplace"
     weight = 300
-    url = "/marketplace/"
+    url = "https://cloud.italia.it/marketplace"

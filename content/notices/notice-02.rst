@@ -1,7 +1,7 @@
 ---
-title: "Avviso"
-date: 2018-11-28T00:47:57+01:00
-lastmod: 2018-11-28T00:47:57+01:00
+title: "Al via le qualificazioni per il Cloud della PA"
+date: 2018-06-28T00:47:57+01:00
+lastmod: 2018-06-28T00:47:57+01:00
 tags : [ "dev", "hugo", "hyde-hyde"]
 layout: notice
 type:  "notice"
