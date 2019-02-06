@@ -18,10 +18,14 @@ apposite circolari AgID.
 Titolo
 ------
 
-Comunit
+Comunità
 ========
 
-`DevOps Italia <https://developers.italia.it/it/devops/>`_, la comunità DevOps della PA è il punto di riferimento per lo sviluppo delle pratiche di DevOps e del Cloud della pubblica amministrazione - linee guida, strumenti e un forum per favorire la collaborazione e promuovere il paradigma del Cloud nello sviluppo dei servizi pubblici.
+`DevOps Italia <https://developers.italia.it/it/devops/>`_, la comunità DevOps
+della PA è il punto di riferimento per lo sviluppo delle pratiche di DevOps e
+del Cloud della pubblica amministrazione - linee guida, strumenti e un forum
+per favorire la collaborazione e promuovere il paradigma del Cloud nello
+sviluppo dei servizi pubblici.
 
 Documenti
 =========
