@@ -1,0 +1,22 @@
+languageCode = "it-it"
+title = "Lorem Ipsum"
+
+[Params]
+  ente = "Team Digitale"
+  siteTitle = "Inserire qui il titolo"
+  siteDescription = "Inserire qui la tag line"
+
+  footerColumn1Title = "Lorem Ipsum"
+  footerColumn1Text = "Lorem Ipsum"
+  footerColumn1Links = [
+    { label = "Link 1", url = "#" },
+    { label = "Link 2", url = "#" }
+  ]
+
+  footerColumn2Title = "Lorem Ipsum"
+  footerColumn2Text = "Lorem Ipsum"
+
+  footerBottomLinks = [
+    { label = "Note legali", url = "#" },
+    { label = "Privacy policy", url = "#" }
+  ]

@@ -1,9 +1,9 @@
 ## Basic Configuration
 baseurl = "https://cloud.italia.it"
-languageCode = "it"
+languageCode = "it-it"
 
-title = "Cloud PA"
-theme = "hyde-hyde"
+title = "Cloud della PA"
+theme = "hugo-theme-bootstrap-italia"
 
 ## Hugo Built-in Features
 # disqusShortname = "your-disqus-shortname"
@@ -11,44 +11,27 @@ theme = "hyde-hyde"
 # enableRobotsTXT = true
 
 # summarylength = 30
-
 #paginate = 5
 
+
 ## Site Settings
-[params]
-    author = "AgID - Team Digitale"
-    title = "Cloud Italia"
-    # description = "..."
-#    authorimage = "/img/hugo.png"
-    dateformat = "Jan 2, 2006"
-    highlightjs = true
-    highlightjsstyle = "github"
-    # please choose either GraphComment or Disqus or Utterances
-    #GraphCommentId = "..."
-    #UtterancesRepo = "..." # https://utteranc.es/
-    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
-    #UtterancesTheme = "..." # github-light or github-dark
+[Params]
+  author = "AgID - Team Digitale"
+  ente = "AgID - Team Digitale"
+  siteTitle = "Il Cloud della PA"
+  siteDescription = "Inserire qui la tag line"
 
-    # Table of contents
-    #toc = none, "hugo", or "tocbot"
+#  footerColumn1Title = "Lorem Ipsum"
+#  footerColumn1Text = "Lorem Ipsum"
+#  footerColumn1Links = [
+#    { label = "Link 1", url = "#" },
+#    { label = "Link 2", url = "#" }
+#  ]
 
-## Social Accounts
-#[params.social]
-#    twitter = "<username>"
+#  footerColumn2Title = "Lorem Ipsum"
+#  footerColumn2Text = "Lorem Ipsum"
 
-## Main Menu
-[[menu.main]]
-    name = "Avvisi"
-    weight = 100
-    identifier = "notices"
-    url = "/notices/"
-[[menu.main]]
-    name = "Circolari"
-    identifier = "Circolari"
-    weight = 300
-    url = "https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/"
-[[menu.main]]
-    name = "Marketplace"
-    identifier = "Marketplace"
-    weight = 300
-    url = "https://cloud.italia.it/marketplace"
+#  footerBottomLinks = [
+#    { label = "Note legali", url = "#" },
+#    { label = "Privacy policy", url = "#" }
+#  ]
