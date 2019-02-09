@@ -12,3 +12,13 @@
   status = 200
   force = true
   headers = {X-From = "Netlify"}
+
+
+[[redirects]]
+  from = "/projects/cloud-italia-docs/*"
+  to = "https://cloud-italia.readthedocs.io/projects/cloud-italia-docs/:splat"
+  status = 200
+  force = true
+  [redirects.headers]
+    X-RTD-SLUG = "cloud-italia-docs"
+
