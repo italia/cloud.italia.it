@@ -18,8 +18,8 @@ theme = "hugo-theme-bootstrap-italia"
 [Params]
   author = "AgID - Team Digitale"
   ente = "AgID - Team Digitale"
-  siteTitle = "Il Cloud della PA"
-#  siteDescription = "Inserire qui la tag line"
+  siteTitle = "cloud.italia.it"
+  siteDescription = "Il Cloud della PA"
 
 #  footerColumn1Title = "Lorem Ipsum"
 #  footerColumn1Text = "Lorem Ipsum"

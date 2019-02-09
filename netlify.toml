@@ -3,16 +3,12 @@
   to = "https://156.54.185.159/marketplace/:splat"
   status = 200
   force = true
-  headers = {X-From = "Netlify"}
-
 
 [[redirects]]
   from = "/simplesaml/*"
   to = "https://156.54.185.159/simplesaml/:splat"
   status = 200
   force = true
-  headers = {X-From = "Netlify"}
-
 
 [[redirects]]
   from = "/projects/cloud-italia-docs/*"
@@ -22,3 +18,10 @@
   [redirects.headers]
     X-RTD-SLUG = "cloud-italia-docs"
 
+[[redirects]]
+  from = "/projects/cloud-italia-circolari/*"
+  to = "https://cloud-italia.readthedocs.io/projects/cloud-italia-circolari/:splat"
+  status = 200
+  force = true
+  [redirects.headers]
+    X-RTD-SLUG = "cloud-italia-circolari"
