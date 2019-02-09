@@ -19,7 +19,7 @@ theme = "hugo-theme-bootstrap-italia"
   author = "AgID - Team Digitale"
   ente = "AgID - Team Digitale"
   siteTitle = "Il Cloud della PA"
-  siteDescription = "Inserire qui la tag line"
+#  siteDescription = "Inserire qui la tag line"
 
 #  footerColumn1Title = "Lorem Ipsum"
 #  footerColumn1Text = "Lorem Ipsum"
@@ -31,7 +31,7 @@ theme = "hugo-theme-bootstrap-italia"
 #  footerColumn2Title = "Lorem Ipsum"
 #  footerColumn2Text = "Lorem Ipsum"
 
-#  footerBottomLinks = [
-#    { label = "Note legali", url = "#" },
-#    { label = "Privacy policy", url = "#" }
-#  ]
+  footerBottomLinks = [
+    { label = "Note legali", url = "https://developers.italia.it/it/note-legali/" },
+    { label = "Privacy policy", url = "https://developers.italia.it/it/privacy-policy/" }
+  ]
