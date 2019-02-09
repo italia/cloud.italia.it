@@ -1,3 +1,4 @@
+/*  https://cloud-italia.readthedocs.io/:splat 200
 /marketplace/*  https://156.54.185.159/marketplace/:splat  200
 /simplesaml/*   https://156.54.185.159/simplesaml/:splat 200
 /test-nuovo-marketplace/*  https://marketplace.ecaasagid.cloudspc.it/:splat 200
