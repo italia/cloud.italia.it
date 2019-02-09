@@ -2,4 +2,5 @@
 /simplesaml/*   https://156.54.185.159/simplesaml/:splat 200
 /test-nuovo-marketplace/*  https://marketplace.ecaasagid.cloudspc.it/:splat 200
 /test-nuovo-marketplace/test-supplier/*  https://supplier.ecaasagid.cloudspc.it/:splat 200
+/projects/cloud-italia-circolari/* https://cloud-italia.readthedocs.io/projects/cloud-italia-circolari/:splat 200
 
