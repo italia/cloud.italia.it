@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://cloud.italia.it"
+baseurl = "https://cloud-italia-it.netlify.com"
 languageCode = "it-it"
 
 title = "Cloud della PA"
