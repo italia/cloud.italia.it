@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+
+
+<div class="container my-2">
+  <nav class="breadcrumb-container" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="/">Home</a><span class="separator">&gt;</span></li>
+      <li class="breadcrumb-item"><a href="/news">News</a><span class="separator">&gt;</span></li>
+      <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+    </ol>
+  </nav>
+</div>
+<article class="container my-5">
+  <div class="row">
+    <div class="col-12 col-lg-8 offset-2">
+      <!--start card-->
+      <div class="card-wrapper card-space">
+        <div class="card card-bg card-big border-bottom-card">
+          <div class="flag-icon"></div>
+          <div class="etichetta">
+            <svg class="icon">
+              <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-calendar"></use>
+            </svg>
+            <span>Scritto il {% include date.html date=page.date %}</span>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">{{ page.title }}</h5>
+            <p class="card-text">{{ content }}</p>
+          </div>
+        </div>
+      </div>
+      <!--end card-->
+    </div>
+  </div>
+  {% include disqus.html %}
+</article>

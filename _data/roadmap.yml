@@ -1,0 +1,16 @@
+it:
+  - title: "Rilascio WISP 1.3"
+    date: Luglio 2017
+    description: ""
+  - title: "Rilascio SDK mobile WISP 2.0"
+    date: Ottobre 2017
+    description: ""
+  - title: "Rilascio in collaudo alle PA WISP 2.0 e SDK mobile"
+    date: Dicembre 2017
+  - title: "Rilascio linee guida nuovo avviso cartaceo"
+    date: Giugno 2018
+  - title: "Rilascio WISP 2.0 per tutte le Pubbliche Amministrazioni"
+    date: Gennaio 2019
+  - title: "Rilascio nuova architettura"
+    date: Giugno 2019
+    todo: true
