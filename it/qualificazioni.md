@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Qualificazioni cloud
-description: Le qualificazioni dei servizi cloud per la Pubblica Amministrazione e il catalogo dei servizi.
+title: Le qualificazioni cloud
+description: Come qualificare i servizi cloud per la Pubblica Amministrazione e consultare il il catalogo dei servizi qualificati.
 lang: it
 ref: qualificazioni
 order: 3
@@ -16,7 +16,7 @@ la qualificazione delle infrastrutture Cloud (CSP) e dei servizi di tipo IaaS,
 PaaS e SaaS erogabili sul Cloud della PA.
 Tutte le informazioni sul Cloud della PA e le Circolari AgID contenenti le
 regole da seguire al fine di ottenere la qualificazione come Cloud Service
-Provider sono disponibili sul sito https://cloud.italia.it.
+Provider sono disponibili sul sito [https://cloud.italia.it]().
 I fornitori Cloud, siano essi soggetti privati che Pubbliche Amministrazioni,
 che intendono erogare servizi IaaS, PaaS e SaaS destinati alle Pubbliche
 Amministrazioni devono preventivamente sottoporre tali servizi alla
@@ -62,7 +62,9 @@ chiarimenti sull'utilizzo della piattaforma è possibile scrivere una e-mail
 all'indirizzo qualificazione-cloud@agid.gov.it
 
 
-Per magggior informazioni [qualificazioni cloud](https://cloud.italia.it/marketplace/supplier).
+Per magggior informazioni sulle [qualificazioni cloud consultare la sezione
+supplier del marketplace.](https://cloud.italia.it/marketplace/supplier).
 
-Consulta il catalogo delle dei [servizi cloud qualificati](https://cloud.italia.it/marketplace/).
+Consulta il catalogo delle dei [servizi cloud qualificati per la Pubblica
+Amministrazione](https://cloud.italia.it/marketplace/).
 
