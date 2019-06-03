@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Qualificazioni Cloud
-description: TODO
+title: Qualificazioni cloud
+description: Le qualificazioni dei servizi cloud per la Pubblica Amministrazione e il catalogo dei servizi.
 lang: it
 ref: qualificazioni
 order: 3
