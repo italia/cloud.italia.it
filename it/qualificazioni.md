@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Qualificare i servizi cloud
-description: Come qualificare i servizi cloud per la Pubblica Amministrazione e consultare il il catalogo dei servizi qualificati.
+description: Come qualificare i servizi cloud per la Pubblica Amministrazione.
 lang: it
 ref: qualificazioni
 order: 3
 ---
 
 ## Introduzione
-
 
 Il Piano Triennale per l'informatica nella PA 2019-2021 e le Circolari AgID n.
 2 e n. 3 del 9 aprile 2018 forniscono il quadro di riferimento e regolamentano
