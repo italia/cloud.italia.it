@@ -63,9 +63,8 @@ all'indirizzo qualificazione-cloud@agid.gov.it
 
 ## Approfondimenti
 
-Per magggior informazioni sulle [qualificazioni cloud consultare la sezione
+- Per magggior informazioni sulle [qualificazioni cloud consultare la sezione
 supplier del marketplace.](https://cloud.italia.it/marketplace/supplier).
-
-Consulta il catalogo delle dei [servizi cloud qualificati per la Pubblica
+- Consulta il catalogo delle dei [servizi cloud qualificati per la Pubblica
 Amministrazione](https://cloud.italia.it/marketplace/).
 
