@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Qualificare i servizi Cloud
+title: Qualificare i servizi cloud
 description: Come qualificare i servizi cloud per la Pubblica Amministrazione e consultare il il catalogo dei servizi qualificati.
 lang: it
 ref: qualificazioni
 order: 3
 ---
 
-## Le qualificazioni per il Cloud della PA
+## Introduzione
 
 
 Il Piano Triennale per l'informatica nella PA 2019-2021 e le Circolari AgID n.
@@ -62,6 +62,7 @@ Per richiedere assistenza nella compilazione delle istanze di qualificazione o
 chiarimenti sull'utilizzo della piattaforma è possibile scrivere una e-mail
 all'indirizzo qualificazione-cloud@agid.gov.it
 
+## Approfondimenti
 
 Per magggior informazioni sulle [qualificazioni cloud consultare la sezione
 supplier del marketplace.](https://cloud.italia.it/marketplace/supplier).
