@@ -7,16 +7,18 @@ ref: qualificazioni
 order: 3
 ---
 
-## Le qualificazioni per il Cloud della PA
+## Come qualificare i servizi cloud per la Pubblica Amministrazione
 
 
-Il Piano Triennale per l'informatica nella PA 2017-2019 e le Circolari AgID n.
+Il Piano Triennale per l'informatica nella PA 2019-2021 e le Circolari AgID n.
 2 e n. 3 del 9 aprile 2018 forniscono il quadro di riferimento e regolamentano
 la qualificazione delle infrastrutture Cloud (CSP) e dei servizi di tipo IaaS,
 PaaS e SaaS erogabili sul Cloud della PA.
+
 Tutte le informazioni sul Cloud della PA e le Circolari AgID contenenti le
 regole da seguire al fine di ottenere la qualificazione come Cloud Service
 Provider sono disponibili sul sito [https://cloud.italia.it]().
+
 I fornitori Cloud, siano essi soggetti privati che Pubbliche Amministrazioni,
 che intendono erogare servizi IaaS, PaaS e SaaS destinati alle Pubbliche
 Amministrazioni devono preventivamente sottoporre tali servizi alla
