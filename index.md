@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Il Cloud della Pubblica Amministrazione
-description: Favorire l’adozione del modello cloud computing nelle amministrazioni italiane.
+description: L’adozione del modello cloud computing nelle amministrazioni italiane.
 lang: it
 ref: homepage
 order: 1
