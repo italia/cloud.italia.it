@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Il Cloud della Pubblica Amministrazione
-description: TODO Breve testo descrittivo del progetto (su mobile non sarà visibile)
+description: La strategia Cloud per la Pubblica Amministrazione per favorire l’adozione del modello cloud computing nelle amministrazioni italiane.
 lang: it
 ref: homepage
 order: 1
