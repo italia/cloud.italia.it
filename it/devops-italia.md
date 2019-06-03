@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DevOps Italia
+title: La comunità DevOps Italia
 description: Il punto di riferimento per lo sviluppo delle pratiche di DevOps e del Cloud della Pubblica Amministrazione
 lang: it
 ref: devops-italia
