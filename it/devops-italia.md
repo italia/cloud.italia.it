@@ -9,7 +9,7 @@ order: 2
 
 ## Introduzione
 
-[DevOps Italia](https://developers.italia.it/it/devops/) è la comunità attraverso la quale è possibile trovare *linee guida*, *strumenti operativi* e un *forum* per favorire la collaborazione e promuovere il paradigma del Cloud nello sviluppo dei servizi pubblici.
+[DevOps Italia](https://developers.italia.it/it/devops/) è la comunità creata allo scopo di favorire la collaborazione nello sviluppo e nella gestione dei servizi pubblici secondo il paradigma Cloud.  *Linee guida* e *strumenti operativi* per migrare ed erogare servizi nel Cloud della PA. Un *Forum* e la chat *Slack* per condividere e discutere idee, problematiche e soluzioni.
 
 ## A chi è dedicata
 
