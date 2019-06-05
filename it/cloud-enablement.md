@@ -25,6 +25,11 @@ principali che definisco la strategia di questo percorso di trasformazione:
 
 ## Approfondimenti
 
-- Il **cloud enablement kit**  link 
-- Il framework di lavoro link 
+- Il **Cloud Enablement Kit**
+  * [**Manuale di abilitazione al cloud**](https://docs-italia-staging.teamdigitale.it/citta-metropolitana-amba-raba/test-cloud-enable-program/cloud-enable-program-docs/it/master/index.html)
+  * [**Allegato - Lista degli applicativi**](https://drive.google.com/open?id=1iVswHZ22zanOSxFoQ8lSW8B1Enx9mg9gQAPVhayerNs)
+  * [**Allegato - Scheda di assessment dell'applicativo**](https://drive.google.com/open?id=1P8lcsCxEXKYk7oZVoHrS6rhNmqdPz4bHfzmsmWq4akQ)
+  * [**Allegato - Valutazione competenze**](https://drive.google.com/open?id=1_5aEEDg4TGDEJB8EM5ZQqb6XgGtCxISLRFa_-l2BscU)
+
+- Il framework di lavoro 
 
