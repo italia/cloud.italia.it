@@ -61,10 +61,5 @@ Per richiedere assistenza nella compilazione delle istanze di qualificazione o
 chiarimenti sull'utilizzo della piattaforma è possibile scrivere una e-mail
 all'indirizzo qualificazione-cloud@agid.gov.it
 
-## Approfondimenti
 
-- Per magggior informazioni sulle [qualificazioni cloud consultare la sezione
-supplier del marketplace.](https://cloud.italia.it/marketplace/supplier).
-- Consulta il catalogo delle dei [servizi cloud qualificati per la Pubblica
-Amministrazione](https://cloud.italia.it/marketplace/).
-
+{% include qualificazioni/qualificazioni-sections.html %}
