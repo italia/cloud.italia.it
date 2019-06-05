@@ -31,5 +31,6 @@ principali che definisco la strategia di questo percorso di trasformazione:
   * [**Allegato - Scheda di assessment dell'applicativo**](https://drive.google.com/open?id=1P8lcsCxEXKYk7oZVoHrS6rhNmqdPz4bHfzmsmWq4akQ)
   * [**Allegato - Valutazione competenze**](https://drive.google.com/open?id=1_5aEEDg4TGDEJB8EM5ZQqb6XgGtCxISLRFa_-l2BscU)
 
+
 - Il framework di lavoro 
 
