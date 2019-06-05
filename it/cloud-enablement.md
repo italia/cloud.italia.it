@@ -34,3 +34,5 @@ principali che definisco la strategia di questo percorso di trasformazione:
 
 - Il framework di lavoro 
 
+{% include cep/cep-sections.html %}
+
