@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Qualificare i servizi cloud
+title: I servizi cloud qualificati
 description: Come qualificare i servizi cloud per la Pubblica Amministrazione.
 lang: it
 ref: qualificazioni
