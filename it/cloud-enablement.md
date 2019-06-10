@@ -7,8 +7,6 @@ ref: cloud-enablement
 order: 2
 ---
 
-## Introduzione
-
 Il Team per la Trasformazione Digitale in collaborazione con AgID ha elaborato un Programma di
 abilitazione al Cloud per definire l'insieme di attività e risorse necessarie
 per rendere un’amministrazione capace di creare, operare e mantenere le proprie infrastrutture IT 
