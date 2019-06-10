@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Il programma di abilitazione al cloud
-description: Metodologie, strumenti e risorse per trasformare i propri servizi utilizzando le tecnologie di cloud computing.
+description: Metodologie, strumenti e risorse per trasformare i propri servizi utilizzando le tecnologie cloud.
 lang: it
 ref: cloud-enablement
 order: 2
