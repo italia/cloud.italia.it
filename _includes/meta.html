@@ -20,10 +20,10 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@https://twitter.com/teamdigitaleIT">
 <meta name="twitter:creator" content="Team per la Trasformazione Digitale">
-<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:title" content="{{ page.title | default: site.title | smartify }}">
 <meta name="twitter:description"
     content="{% if page.excerpt %}{{ page.excerpt| strip_html }}{% else %}{{ site.data.t.description[page.lang] }}{% endif %}">
-<meta name="twitter:image" content="{{ site.baseurl }}{{ site.social-card }}">
+<meta name="twitter:image" content="{{ site.url | append: site.baseurl | append: site.data.t.social-card-twitter }}">
 
 <!-- Facebook -->
 <meta property="og:url" content="/">
@@ -31,8 +31,8 @@
 <meta property="og:description"
     content="{% if page.excerpt %}{{ page.excerpt| strip_html }}{% else %}{{ site.data.t.description[page.lang] }}{% endif %}">
 <meta property="og:type" content="website">
-<meta property="og:image" content="{{ site.baseurl | replace: 'https://', 'http://' }}{{ site.social-card }}">
-<meta property="og:image:secure_url" content="{{ site.baseurl }}{{ site.social-card }}">
+<meta property="og:image" content="{{ site.url | replace: 'https://', 'http://' | append: site.baseurl | append: site.data.t.social-card-og }}">
+<meta property="og:image:secure_url" content="{{ site.url | append: site.baseurl | append: site.data.t.social-card-og }}">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">

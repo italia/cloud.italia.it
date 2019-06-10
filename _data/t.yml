@@ -3,7 +3,10 @@
 icon: "/assets/images/cloud-logo.svg"
 
 ## Social Card [1200x630]
-social-card: /assets/images/favicons/social-card.png
+social-card-og: "/assets/images/cloud-pa-logo-og.jpg"
+
+## Social Card [1280x640]
+social-card-twitter: "/assets/images/cloud-pa-logo-twitter.jpg"
 
 ## Site name
 name:
@@ -12,8 +15,8 @@ name:
 
 ## Site description
 description:
-  en: ""
-  it: ""
+  en: "Cloud computing for italian public administrations."
+  it: "L’adozione del modello cloud computing nelle amministrazioni italiane."
 
 ## Site author
 author:
