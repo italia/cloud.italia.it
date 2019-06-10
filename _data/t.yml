@@ -7,8 +7,8 @@ social-card: /assets/images/favicons/social-card.png
 
 ## Site name
 name:
-  en: ""
-  it: "Il Cloud della PA"
+  en: "Cloud for public administration "
+  it: "Il cloud della PA"
 
 ## Site description
 description:
@@ -18,7 +18,7 @@ description:
 ## Site author
 author:
   en: "Digital Transformation Team"
-  it: "AGID + Presidenza del Consiglio dei Ministri + Team Digitale"
+  it: "AGID + Team Digitale"
 
 ## Social
 social-links:
