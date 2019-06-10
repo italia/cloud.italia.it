@@ -7,8 +7,6 @@ ref: qualificazioni
 order: 3
 ---
 
-## Introduzione
-
 Il Piano Triennale per l'informatica nella PA 2019-2021 e le [Circolari AgID n.
 2 e n. 3 del 9 aprile 2018](https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/) forniscono il quadro di riferimento e regolamentano
 la qualificazione delle infrastrutture Cloud (CSP) e dei servizi di tipo IaaS,
