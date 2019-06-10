@@ -24,9 +24,8 @@ principali che definisco la strategia del percorso di trasformazione e l'abilita
 Entrambe le componenti sono sviluppate in collaborazione con le 
 amministrazioni in maniera iterativa attraverso sperimentazioni e progetti pilota.
 Il programma è rivolto a tecnici, esperti dell’IT e ai
-responsabili della trasformazione digitale, ma anche a chiunque nella
-pubblica amministrazione sia coinvolto nella gestione di servizi esistenti e/o
-nella definizione e progettazione di nuovi servizi.
+responsabili della trasformazione digitale, ma anche a chiunque sia coinvolto nella gestione di servizi esistenti e/o
+nella definizione e progettazione di nuovi servizi della pubblica amministrazione.
 
 Contribuisci allo sviluppo di questi strumenti condividendo le tue osservazioni e proposte su
 [forum.italia.it](https://forum.italia.it/c/piano-triennale/data-center-e-cloud).
