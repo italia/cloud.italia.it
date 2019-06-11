@@ -13,7 +13,7 @@ per rendere un’amministrazione capace di creare, operare e mantenere le propri
 utilizzando tecnologie e servizi cloud.
 
 Tale programma è caratterizzato da due componenti 
-principali che definisco la strategia del percorso di trasformazione e l'abilitazione al cloud:
+principali che definisco la strategia del percorso di trasformazione e abilitazione al cloud:
 
 - **un kit di strumenti** che raccoglie  buone pratiche e metodologie di supporto alle
   amministrazioni per l’esecuzione del programma;
