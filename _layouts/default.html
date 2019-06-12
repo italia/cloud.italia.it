@@ -6,7 +6,9 @@
   {%- include styles.html -%}
   {%- include meta.html -%}
   {%- if jekyll.environment == 'production' -%}
-<!--  {%- include analytics/google-analytics.html -%} -->
+  {% comment %}
+  {%- include analytics/google-analytics.html -%}
+  {% endcomment %}
   {%- endif -%}
 </head>
 
