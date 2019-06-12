@@ -12,18 +12,16 @@ abilitazione al cloud](https://cloud-italia.readthedocs.io/projects/cloud-italia
 per rendere un’amministrazione capace di creare, operare e mantenere le proprie infrastrutture IT 
 utilizzando tecnologie e servizi cloud.
 
-Tale programma è caratterizzato da due componenti 
-principali che definisco la strategia del percorso di trasformazione e abilitazione al cloud:
+Per realizzare il percorso di trasformazione e abilitazione al cloud il programma prevede l'implementazione di due principali componenti:
 
 - **un kit di strumenti** che raccoglie  buone pratiche e metodologie di supporto alle
   amministrazioni per l’esecuzione del programma;
-- **un framework di lavoro** che descrive le componenti organizzative (unità di
-  controllo, unità di esecuzione e centri di competenza) necessarie per
-  eseguire il programma.
+- **un framework di lavoro** che descrive il modello organizzativo delle unità operative (unità di
+  controllo, unità di esecuzione e centri di competenza) che eseguiranno il programma.
 
-Entrambe le componenti sono sviluppate in collaborazione con le 
-amministrazioni in maniera iterativa attraverso sperimentazioni e progetti pilota.
-Il programma è rivolto a tecnici, esperti dell’IT e ai
+Entrambe le componenti sono sviluppate in collaborazione con le amministrazioni in maniera iterativa attraverso sperimentazioni e progetti pilota.
+
+Il programma di abilitazione viene proposto a tecnici, esperti dell’IT e ai
 responsabili della trasformazione digitale, ma anche a chiunque sia coinvolto nella gestione di servizi esistenti e/o
 nella definizione e progettazione di nuovi servizi della pubblica amministrazione.
 
