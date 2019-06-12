@@ -13,7 +13,7 @@ degli utenti (di seguito, anche gli “Utenti”) che consultano il sito
 [https://cloud.italia.it/](https://cloud.italia.it/) (di seguito, anche
 “Sito”) fatta eccezione per le pagine legate all’URL https://cloud.italia.it/marketplace
 cui si applica una diversa informativa ([https://cloud.italia.it/marketplace/supplier/landing/privacy_policy.html](https://cloud.italia.it/marketplace/supplier/landing/privacy_policy.html))
-perchè mantenute dal nostro partner l’Agenzia per l’Italia di Digitale.
+perchè mantenute dall’Agenzia per l’Italia Digitale.
 
 L’informativa è resa ai sensi dell’art. 13 del regolamento (UE) 2016/679 (di
 seguito il “Regolamento”).
