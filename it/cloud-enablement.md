@@ -15,7 +15,7 @@ Per realizzare il percorso di trasformazione e abilitazione al cloud il programm
 
 Entrambe le componenti sono sviluppate in collaborazione con le amministrazioni in maniera iterativa attraverso sperimentazioni e progetti pilota.
 
-Il programma di abilitazione viene proposto a tecnici, esperti dell&rsquo;IT e ai responsabili della trasformazione digitale, ma anche a chiunque sia coinvolto nella gestione di servizi esistenti e/o nella definizione e progettazione di nuovi servizi della pubblica amministrazione.
+Il programma di abilitazione viene proposto a tecnici, esperti dell&rsquo;IT e ai responsabili della trasformazione digitale, ma anche a chiunque sia coinvolto nella gestione di servizi esistenti e/o nella definizione e progettazione di nuovi servizi della Pubblica Amministrazione.
 
 E&rsquo; possibile contribuire allo sviluppo e al continuo miglioramento del **kit** e del **framework** del **programma di abilitazione al cloud** condividendo esperienze, buone pratiche, problematiche e soluzioni nella sezione dedicata a [Data Center e Cloud su forum.italia.it](https://forum.italia.it/c/piano-triennale/data-center-e-cloud).
 
