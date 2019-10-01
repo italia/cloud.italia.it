@@ -6,7 +6,7 @@ lang: it
 ref: cloud-enablement
 order: 2
 ---
-Il Team per la Trasformazione Digitale, in collaborazione con AgID, ha elaborato un [programma di abilitazione al cloud](https://cloud-italia.readthedocs.io/projects/cloud-italia-docs/it/latest/cloud-enablement.html) che definisce l'insieme di attività e risorse necessarie per rendere un&rsquo;amministrazione capace di creare, operare e mantenere le proprie infrastrutture IT utilizzando tecnologie e servizi cloud.
+Il Team per la Trasformazione Digitale, in collaborazione con AgID, ha elaborato un [programma di abilitazione al cloud](https://docs.italia.it/italia/piano-triennale-ict/cloud-docs/it/stabile/cloud-enablement.html) che definisce l'insieme di attività e risorse necessarie per rendere un&rsquo;amministrazione capace di creare, operare e mantenere le proprie infrastrutture IT utilizzando tecnologie e servizi cloud.
 
 Per realizzare il percorso di trasformazione e abilitazione al cloud il programma prevede la realizzazione di due principali componenti:
 
