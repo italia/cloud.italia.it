@@ -13,7 +13,7 @@ Scalabilità, affidabilità ed elasticità sono diventate proprietà imprescindi
 
 Il cambiamento ha assunto le caratteristiche di una vera e propria rivoluzione e sta dando vita ad una comunità tecnica allargata dove si contaminano le culture professionali e vengono messe a fattore comune le esperienze acquisite nella gestione di infrastrutture e servizi.
 
-Anche la Pubblica Amministrazione italiana ha avviato, con il [Piano Triennale per l’informatica](https://pianotriennale-ict.italia.it/), un importante processo di trasformazione digitale che richiede di operare un radicale cambio di paradigma caratterizzato dall’adozione del Cloud e delle metodologie Agile e Devops, che sono al centro di questa rivoluzione.
+Anche la Pubblica Amministrazione italiana ha avviato, con il [Piano Triennale per l’informatica](https://pianotriennale-ict.italia.it/), un importante processo di trasformazione digitale che richiede di operare un radicale cambio di paradigma caratterizzato dall’adozione del Cloud e delle metodologie [Agile](http://agilemanifesto.org/iso/it/manifesto.html) e [Devops](https://cloud.italia.it/it/devops/), che sono al centro di questa rivoluzione.
 
 ## Chi può dare un contributo
 Tutte le persone interessate, dipendenti pubblici, professionisti, esperti, lavoratori e semplici appassionati nel settore della tecnologia dell'informazione, possono partecipare attivamente a questo processo condividendo in modo aperto opinioni, esperienze, problematiche e soluzioni relative al passaggio al cloud.
