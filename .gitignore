@@ -1,1 +1,2 @@
-build
+# Ignore generated files
+_site

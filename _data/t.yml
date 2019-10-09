@@ -1,0 +1,60 @@
+---
+## Main icon
+icon: "/assets/images/cloud-logo.svg"
+
+## Social Card [1200x630]
+social-card-og: "/assets/images/cloud-pa-logo-og.jpg"
+
+## Social Card [1280x640]
+social-card-twitter: "/assets/images/cloud-pa-logo-twitter.jpg"
+
+## Site name
+name:
+  en: "Cloud for public administration "
+  it: "Il cloud della PA"
+
+## Site description
+description:
+  en: "Cloud computing for italian public administrations."
+  it: "L’adozione del modello cloud computing nelle amministrazioni italiane."
+
+## Site author
+author:
+  en: "Digital Transformation Team"
+  it: "AGID + Team Digitale"
+
+## Social
+social-links:
+  en:
+    medium:
+      name: "medium"
+      url: "https://medium.com/team-per-la-trasformazione-digitale/infrastrutture-digitali-cloud/home"
+  it:
+    medium:
+      name: "medium"
+      url: "https://medium.com/team-per-la-trasformazione-digitale/infrastrutture-digitali-cloud/home"
+
+## Labels
+italian-version:
+  en: "Italian version"
+  it: "Versione italiana"
+english-version:
+  en: "English version"
+  it: "Versione inglese"
+cookie-policy-info:
+  en: "This site uses technical, analytics and third-party cookies <br>By continuing to browse, you accept the use of cookies."
+  it: "Questo sito utilizza cookie tecnici, analytics e di terze parti.<br>Proseguendo nella navigazione accetti l’utilizzo dei cookie."
+cookie-policy-accept-btn:
+  en: "Ok"
+  it: "Accetto"
+footer-links:
+  en:
+    privacy-policy:
+      name: "Privacy policy"
+      url: "/en/privacy-policy"
+  it:
+    privacy-policy:
+      name: "Privacy policy"
+      url: "/it/privacy-policy"
+
+
