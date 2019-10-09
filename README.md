@@ -1,6 +1,6 @@
-# Sito web informativo Cloud Italia
+# Cloud Italia web site
 
-Questo repository ospita i sorgenti del sito https://cloud.italia.it/
+Source code for the https://cloud.italia.it/ web site
 
 ## Developers
 
@@ -24,4 +24,4 @@ The aforementioned addition of `_config_dev.yml` is needed to run the server on 
 
 ## Maintainer
 
-Il sito è stato realizzato ed è manutenuto dal [Team per la Trasformazione Digitale](https://teamdigitale.governo.it/)
+Created and maintained by the [Italian Digital Transformation Team](https://teamdigitale.governo.it/en)
