@@ -10,7 +10,7 @@ Il Team per la Trasformazione Digitale, in collaborazione con AgID, ha elaborato
 
 Per realizzare il percorso di trasformazione e abilitazione al cloud il programma prevede la realizzazione di due principali componenti:
 
-* un **kit** che raccoglie metodologie, strumenti e buone pratiche e fornisce alle pubbliche amministrazioni un percorso adattabile per elaborare una propria strategia di migrazione dei servizi verso il cloud;
+* un **[kit](#kit)** che raccoglie metodologie, strumenti e buone pratiche e fornisce alle pubbliche amministrazioni un percorso adattabile per elaborare una propria strategia di migrazione dei servizi verso il cloud;
 * un **framework** che descrive il modello organizzativo delle unità operative (unità di controllo, unità di esecuzione e centri di competenza) che eseguiranno il programma di abilitazione al cloud.
 
 Entrambe le componenti sono sviluppate in collaborazione con le amministrazioni in maniera iterativa attraverso sperimentazioni e progetti pilota.
