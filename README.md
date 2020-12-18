@@ -24,4 +24,5 @@ The aforementioned addition of `_config_dev.yml` is needed to run the server on 
 
 ## Maintainer
 
-Created and maintained by the [Italian Digital Transformation Team](https://teamdigitale.governo.it/en)
+Created and maintained by the [Italian Digital Transformation
+Department](https://innovazione.gov.it/it/chi-siamo/dipartimento/)
