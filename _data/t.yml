@@ -20,8 +20,16 @@ description:
 
 ## Site author
 author:
-  en: "Digital Transformation Team"
-  it: "AGID + Team Digitale"
+  en: "Digital Transformation Department"
+  it: "Dipartimento per la Trasformazione Digitale"
+
+author_website: "https://innovazione.gov.it/it/chi-siamo/dipartimento/"
+  
+partner:
+  en: "AGID"
+  it: "AGID"
+
+partner_website: "https://agid.gov.it"
 
 ## Social
 social-links:
