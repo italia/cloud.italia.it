@@ -3,11 +3,15 @@
     <div class="row">
       <div class="col-12">
         <div class="it-header-slim-wrapper-content">
-          <a class="d-none d-inline-block d-lg-block navbar-brand" href="{{ site.data.t.author_website }}">{{ site.data.t.author[page.lang] }} + {{ site.data.t.partner[page.lang] }}</a>
+          <div class="d-flex align-items-center">
+            <a class="d-none d-lg-block navbar-brand" href="{{ site.data.t.author_website }}">{{ site.data.t.author[page.lang] }}</a> 
+            <span id="plus" class="d-none d-lg-block text-primary">&nbsp;+&nbsp;</span>
+            <a class="d-none d-lg-block navbar-brand" href="{{ site.data.t.partner_website }}">{{ site.data.t.partner[page.lang] }}</a>
+          </div>
 
             <nav class="navbar-institutional navbar navbar-expand-lg navbar-dark py-1 px-3">
               <a class="it-opener d-lg-none" data-toggle="collapse" href="#menu1" role="button" aria-expanded="false" aria-controls="menu1">
-                <span>{{ site.data.t.author[page.lang] }}</span>
+                <span>Dipartimento per la Trasformazione Digitale + AGID</span>
                 <svg class="icon">
                   <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-expand"></use>
                 </svg>
@@ -33,7 +37,10 @@
                     <a class="nav-link" href="https://github.com/italia/">GitHub</a>
                   </li>
                   <li class="nav-item d-lg-none">
-                    <a class="nav-link" href="https://innovazione.gov.it/it/chi-siamo/dipartimento/">Dipartimento per la Trasformazione Digitale</a>
+                    <a class="nav-link" href="{{ site.data.t.author_website }}">{{ site.data.t.author[page.lang] }}</a>
+                  </li>
+                  <li class="nav-item d-lg-none">
+                    <a class="nav-link" href="{{ site.data.t.partner_website }}">{{ site.data.t.partner[page.lang] }}</a>
                   </li>
                 </ul>
               </div>
