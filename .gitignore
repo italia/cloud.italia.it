@@ -1,3 +1,6 @@
 # Ignore generated files
 _site
 *.swp
+.bundle
+vendor
+
