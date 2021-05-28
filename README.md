@@ -1,6 +1,6 @@
 # Cloud Italia web site
 
-Source code for the https://cloud.italia.it/ web site
+Source code for the OLD https://cloud.italia.it/ web site, the code for the new  site is at https://github.com/italia/cloud.italia.it-site.
 
 ## Developers
 
